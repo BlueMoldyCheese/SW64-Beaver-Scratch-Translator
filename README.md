@@ -1,7 +1,16 @@
 If you plan to use this for recording/streaming purposes, please credit me (BlueMoldyCheese). That would be lit. Thanks!
 
+
+
+---------------ONLY APPLIES WHEN TRYING TO TRANSLATE NUMBERS---------------
+
 (btw numbers don't work because I coded this terribly, but you don't really need numbers anyway. The numbers on signs and audio players in game are as is)
+
 Just in case ( 0=0 1=b 2=d 3=f 4=h 5=j 6=l 7=n 8=p 9=r 10=b0 11=bb 12=bd 13=bf 14=bh 15=bj) lol
+
+---------------ONLY APPLIES WHEN TRYING TO TRANSLATE NUMBERS---------------
+
+
 
 HOW TO MANUALLY DECODE BEAVER SCRATCH ON YOUR OWN:
 
